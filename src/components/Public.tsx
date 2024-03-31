@@ -10,7 +10,7 @@ const Public = () => {
       </header>
       <main className="public__main">
         <p>
-          Located in Beautiful Mohali City, Abhinav S. Repairs provides a
+          Located in Beautiful Mohali City, Abhinav S. Tech provides a
           trained staff ready to meet your tech requirements.
         </p>
         <address className="public__addr">
